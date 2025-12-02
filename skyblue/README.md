@@ -1,4 +1,4 @@
-# Team Bluesky_Sentiment_Analysis
+# Team Skyblue
 
 ## Team members
 
@@ -24,7 +24,7 @@ Methods and tools include quixstreams for kafka ingestion, huggingface 'transfor
 From 100k posts, we analyzed a total of 77,350 English posts.
 More than half of the comments are considered to be negative.
 Negative contents tends to be short, direct, and reactive (breaking news, politics, arguments, sports events).
-Most negative comments fall between 0.5 - 0.8 probability
+Most negative comments fall between 0.5 - 1.0 probability
 A  cluster of highly negative comments exists, which usually includes insults or hate speech.
 Findings suggest that Bluesky has more comments that have a negative tone than positive tone overall, and the comments that are classified negative are usually highly negative.
 
@@ -38,4 +38,4 @@ Negative Probability Histogram:
 
 ## GitHub Repository
 
-https://github.com/
+https://github.com/djhan0330/ds3022-data-project-3
